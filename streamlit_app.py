@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the saved heart disease prediction model
-model = pickle.load(open('heartt_disease_model.sav', 'rb'))
+model = pickle.load(open('heartt_model.sav', 'rb'))
 
 # Streamlit app
 st.title('Heart Disease Prediction System')
