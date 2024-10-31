@@ -8,7 +8,7 @@ Built with **Streamlit** to provide a seamless and interactive experience.
 ## 🚀 **Live Demo**
 
 Try out the app here:  
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/nl-2/Heart-Diagnosis-App/blob/master/streamlit_app.py)
 
 
 ---
